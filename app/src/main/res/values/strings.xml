@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Cognitive State Monitoring</string>
+    <string name="Welcome">Welcome ,</string>
+    <string name="Capture">Capture </string>
+    <string name="Username">Username</string>
+    <string name="Pwd">Password</string>
+    <string name="Login">Log In</string>
+    <string name="none_paired">No Device paired until now</string>
+    <string name="sr">Please enter the Sampling rate of the Data...</string>
+    <string name="action_settings">Settings</string>
+    <string name="bluetooth_label">Bluetooth</string>
+    <string name="enable_bluetooth_button">Enable Bluetooth</string>
+    <string name="find_device_label">Find Device</string>
+    <string name="scan_label">Scan</string>
+    <string name="device_info_label">Device Info</string>
+    <string name="connect_device_label">Connect Device</string>
+    <string name="connect_button">Connect</string>
+    <string name="send_label">Send</string>
+    <string name="value_label">Value:</string>
+    <string name="value_hint">Enter ASCII Command</string>
+    <string name="value_button">Send</string>
+    <string name="value_button_b">Start</string>
+    <string name="value_button_s">Stop</string>
+    <string name="receiving_label">Receiving&#8230;</string>
+    <string name="view_file_label">View File</string>
+    <string name="gps_network_not_enabled">Enable GPS?</string>
+    <string name="open_location_settings">Open Location Settings</string>
+    <string name="Cancel">Cancel</string>
+</resources>
